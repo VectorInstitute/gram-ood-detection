@@ -1,5 +1,5 @@
 # Detecting Out-of-Distribution Examples with In-distribution Examples and Gram Matrices
-Code for NeurIPS 2019 Workshop on Safety and Robustness in Decision Making paper: https://arxiv.org/abs/1912.12510.pdf
+ICML 2020: paper, supplementary material and bibtex available at http://proceedings.mlr.press/v119/sastry20a.html
 
 ## Dependencies
 The code is written in Python 3 with Pytorch 1.1. 
